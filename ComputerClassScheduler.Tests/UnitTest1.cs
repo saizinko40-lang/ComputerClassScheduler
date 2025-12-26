@@ -15,4 +15,4 @@ namespace ComputerClassScheduler.Tests
             Assert.IsTrue(isValid);
         }
     }
-}
+} 
