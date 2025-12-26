@@ -16,4 +16,4 @@ namespace ComputerClassScheduler.Logic
             return b;
         }
     }
-}
+} 
